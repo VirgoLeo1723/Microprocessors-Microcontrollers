@@ -1,0 +1,8 @@
+../Core/Src/task.c:15:6:LedR_Display	8	static
+../Core/Src/task.c:18:6:LedG_Display	8	static
+../Core/Src/task.c:21:6:LedY_Display	8	static
+../Core/Src/task.c:25:6:incTime	4	static
+../Core/Src/task.c:28:6:display7SEG_2	16	static
+../Core/Src/task.c:121:6:display7SEG_1	16	static
+../Core/Src/task.c:216:6:Led1_end	8	static
+../Core/Src/task.c:221:6:Led2_end	8	static

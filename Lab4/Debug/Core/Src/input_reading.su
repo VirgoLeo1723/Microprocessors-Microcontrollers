@@ -1,0 +1,7 @@
+../Core/Src/input_reading.c:16:6:button_reading	24	static
+../Core/Src/input_reading.c:46:15:is_button_pressed	16	static
+../Core/Src/input_reading.c:54:15:is_button_pressed_3s	16	static
+../Core/Src/input_reading.c:59:5:which_button_press	16	static
+../Core/Src/input_reading.c:67:5:which_button_press3s	16	static
+../Core/Src/input_reading.c:75:5:press_or_press3s	16	static
+../Core/Src/input_reading.c:88:5:press_release	16	static
