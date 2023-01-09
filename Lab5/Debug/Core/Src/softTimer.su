@@ -1,0 +1,3 @@
+../Core/Src/softTimer.c:13:6:timerSet	16	static
+../Core/Src/softTimer.c:16:6:timerRun	4	static
+../Core/Src/softTimer.c:20:5:isTimeOut	4	static

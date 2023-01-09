@@ -1,0 +1,3 @@
+../Core/Src/input_reading.c:15:6:button_reading	24	static
+../Core/Src/input_reading.c:37:15:is_button_pressed	16	static
+../Core/Src/input_reading.c:41:15:is_button_pressed_1s	16	static

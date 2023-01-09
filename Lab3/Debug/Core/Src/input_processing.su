@@ -1,0 +1,9 @@
+../Core/Src/input_processing.c:53:6:fsm_for_input_processing	16	static
+../Core/Src/input_processing.c:92:6:executeReset	8	static
+../Core/Src/input_processing.c:98:6:executeConfirm	4	static
+../Core/Src/input_processing.c:104:6:executeMode0	16	static
+../Core/Src/input_processing.c:129:6:executeMode1	8	static
+../Core/Src/input_processing.c:137:6:executeMode2	8	static
+../Core/Src/input_processing.c:146:6:executeMode3	8	static
+../Core/Src/input_processing.c:156:6:updateButtonInfor	16	static
+../Core/Src/input_processing.c:178:6:softTimer	8	static
