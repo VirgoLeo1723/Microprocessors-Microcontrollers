@@ -1,0 +1,6 @@
+../Core/Src/softTimer.c:11:6:timerSet	16	static
+../Core/Src/softTimer.c:14:6:timerRun	4	static
+../Core/Src/softTimer.c:19:6:timer2Set	16	static
+../Core/Src/softTimer.c:22:6:timer2Run	4	static
+../Core/Src/softTimer.c:26:6:timer3Set	16	static
+../Core/Src/softTimer.c:29:6:timer3Run	4	static

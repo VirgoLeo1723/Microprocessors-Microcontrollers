@@ -1,0 +1,3 @@
+../Core/Src/fsm_simple_button_run.c:20:5:isPressed	16	static
+../Core/Src/fsm_simple_button_run.c:26:6:updateButtonInfor	16	static
+../Core/Src/fsm_simple_button_run.c:49:6:fsm_simple_button_run	16	static
